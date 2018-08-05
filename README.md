@@ -1,6 +1,8 @@
 # Welcome to Chelsea's Blog
 Introduction paragraph
 
+![alt text](http://chelsea587.github.io/Outdoor1.jpg "Logo Title Text 1")
+
 # Subject 1
 
 # Subject 2
