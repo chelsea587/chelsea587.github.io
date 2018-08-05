@@ -1,49 +1,24 @@
 # Welcome to Chelsea's Blog
+Introduction paragraph
 
-## Test for two Hashtags
+# Subject 1
 
-### Test for three Hashtags
+# Subject 2
 
-# Welcome to Chelsea's Blog
+# Subject 3
 
-# Welcome to Chelsea's Blog
+# Subject 4
 
-# Welcome to Chelsea's Blog
+# Subject 5
 
-# Welcome to Chelsea's Blog
+# Subject 6
 
-# Welcome to Chelsea's Blog
+# Subject 7
 
-# Welcome to Chelsea's Blog
+# Subject 8
 
-# Welcome to Chelsea's Blog
+# Subject 9
 
-# Welcome to Chelsea's Blog
+# Subject 10
 
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
-
-# Welcome to Chelsea's Blog
+## About the Author
